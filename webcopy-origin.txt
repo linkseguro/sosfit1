@@ -1,0 +1,52 @@
+Uri: https://marcorebucci.com.br/bora-secar-extreme-marco-rebucci/
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\bora-secar-extreme-marco-rebucci\index.htm
+Content Type: text/html
+
+Uri: https://marcorebucci.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://marcorebucci.com.br/feed/
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://marcorebucci.com.br/wp-content/litespeed/css/a0fa2951e89a42935db921a9d7efe73e.css?ver=334fa
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\wp-content\litespeed\css\a0fa2951e89a42935db921a9d7efe73e.css
+Content Type: text/css
+
+Uri: https://marcorebucci.com.br/wp-content/plugins/presto-player/src/player/player-static.js
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\wp-content\plugins\presto-player\src\player\player-static.js
+Content Type: application/javascript
+
+Uri: https://marcorebucci.com.br/wp-content/uploads/2022/03/cropped-marco-180x180.jpg
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\wp-content\uploads\2022\03\cropped-marco-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://marcorebucci.com.br/wp-content/uploads/2022/03/cropped-marco-192x192.jpg
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\wp-content\uploads\2022\03\cropped-marco-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://marcorebucci.com.br/wp-content/uploads/2022/03/cropped-marco-32x32.jpg
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\wp-content\uploads\2022\03\cropped-marco-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://marcorebucci.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://marcorebucci.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fmarcorebucci.com.br%2Fbora-secar-extreme-marco-rebucci%2F
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://marcorebucci.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fmarcorebucci.com.br%2Fbora-secar-extreme-marco-rebucci%2F&format=xml
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://marcorebucci.com.br/wp-json/wp/v2/pages/5484
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\wp-json\wp\v2\pages\5484
+Content Type: application/json
+
+Uri: https://marcorebucci.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\marcorebucci.com.br\xmlrpc.php
+Content Type: text/xml
+
